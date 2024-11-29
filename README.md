@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Pasan, a passionate Robotics Software Engineer with a background in C++, Python, ROS2, and embedded systems. I'm currently working on developing autonomous systems, computer vision, and sensor fusion technologies. My recent focus has been on optimizing performance in real-time systems and integrating machine learning-based vision pipelines for object detection and tracking.
+Hi there! I'm Pasan, a passionate Robotics Software Engineer with a background in C++, Python, ROS2, and embedded systems. I'm currently working on developing autonomous systems, computer vision, and sensor fusion technologies. My recent focus has been on optimizing performance in real-time systems and integrating machine learning-based vision pipelines for object detection and tracking. Most of my work is stored in private Bitbucket repositories, so there’s not much to see here, but feel free to reach out if you'd like to collaborate or discuss ideas!
 
 
 # 💻 Tech Stack:
